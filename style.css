@@ -1,0 +1,340 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg14 {
+    background-image: url("https://res.cloudinary.com/du1uzqkkh/image/upload/v1696475460/swimming-pool_1_wpebaa.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.h12 {
+    color: #f19116;
+    font-family: Bree Serif;
+}
+
+.p11 {
+    font-family: Bree Serif;
+    color: #6c6b70;
+}
+
+.bt {
+    background-color: rgba(255, 84, 62, 0.8);
+    height: 36px;
+    width: 138px;
+    color: white;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 20px;
+}
+
+.bg11 {
+    background-color: #ffffff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+}
+
+.bg {
+    background-color: black;
+    height: auto;
+}
+
+.btn {
+    background-color: green;
+    height: 36px;
+    width: 138px;
+    border-radius: 10px;
+    color: white;
+}
+
+.h {
+    background-color: lightyellow;
+    height: auto;
+}
+
+.h1 {
+    font-size: 50px;
+    color: black;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.p {
+    font-size: 15px;
+    color: black;
+    font-family: Roboto;
+}
+
+.img {
+    height: 100%;
+}
+
+.b {
+    background-color: white;
+    border-radius: 100px;
+    width: 50px;
+}
+
+.p1 {
+    font-size: 15px;
+    color: black;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.img2 {
+    height: 70%;
+    width: 100%;
+}
+
+.bg3 {
+    background-color: lightgrey;
+    border-radius: 100px;
+}
+
+.img3 {
+    width: 100%;
+}
+
+.l {
+    text-align: center;
+}
+
+.r {
+
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+
+    line-height: 24px;
+    background-color: rgba(255, 84, 62, 0.8);
+    width: 50%;
+    border-radius: 100px;
+}
+
+.img4 {
+    width: 20%;
+}
+
+.h2 {
+    color: white;
+}
+
+.btn1 {
+    color: white;
+    height: 36px;
+    width: 138px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 0px;
+    background-color: rgba(255, 118, 101, 0.40);
+}
+
+.bg4 {
+    background-color: white;
+    height: 50%;
+
+}
+
+.img5 {
+    width: 80%;
+}
+
+.bg2 {
+    background-color: #323f4b;
+    height: auto;
+    border-radius: 10px;
+}
+
+.img7 {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.p9 {
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.img8 {
+    width: 50%;
+}
+
+.p0 {
+    color: white;
+}
+
+.u {
+    border-radius: 10px;
+    height: 36px;
+    width: 138px;
+}
+
+.hg {
+    background-color: white;
+    width: 140px;
+    height: 140px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid #E8E8E8;
+    background: #FFF;
+}
+
+.healthy-food-section {
+    background-color: #f9fbfe;
+}
+
+.heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.custom-button {
+    color: white;
+
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.healthy-food-section-img {
+    width: 270px;
+}
+
+.lp {
+    border-radius: 10px;
+}
+
+.t {
+    color: rgba(255, 84, 62, 0.8);
+}
+
+.l1 {
+    width: 100%;
+
+    flex-shrink: 0;
+    border-radius: 5px;
+    border: 1px solid #585858;
+    background: #FFF;
+    box-shadow: 6px 10px 50px 0px rgba(168, 175, 183, 0.25);
+}
+
+.j {
+    font-size: 20px;
+
+}
+
+.img0 {
+    width: 3%;
+}
+
+.q {
+    color: rgba(29, 38, 58, 0.90);
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+.bg1 {
+    background-image: url("https://res.cloudinary.com/du1uzqkkh/image/upload/v1696479344/map_dbucto.png");
+    height: 100vh;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.k {
+    font-size: 25px;
+}
+
+.d {
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    width: 124px;
+    height: 56px;
+    flex-shrink: 0;
+    margin: 5px;
+    border-radius: 50px;
+    background: rgba(211, 101, 88, 0.80);
+}
+
+.bg5 {
+    background-color: rgba(211, 101, 88, 0.80);
+    margin: 20px;
+}
+
+.ig {
+    text-align: center;
+}
+
+.h4 {
+    font-size: 30px;
+}
+
+.bg10 {
+    background-color: #152c3e;
+    height: auto;
+}
+
+.img12 {
+    width: 50%;
+
+}
+
+.h7 {
+    color: #5a7184;
+    font-size: 20px;
+}
+
+.p4 {
+    color: #5a7184;
+    font-size: 18px;
+    font-family: Caveat;
+}
+
+.hr-line {
+    background-color: #5a7184;
+    width: 100%;
+}
+
+.span {
+    color: black;
+    font-size: 25px;
+
+}
+
+.g {
+    text-align: center;
+}
+
+.ig2 {
+    color: #959ead;
+}
+
+.f {
+    background-color: #0d2436;
+    width: 60px;
+    height: 60px;
+    border-radius: 40px;
+    margin: 5px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
